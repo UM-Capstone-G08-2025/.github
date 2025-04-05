@@ -1,4 +1,4 @@
-# .github
+# servoSentry.github
 Project Overview
 
 ServoSentry is a cutting-edge, mobile, computer-vision based security platform that seamlessly integrates advanced object detection with dual-mode locomotion capabilities. Designed for diverse operational environments, the system supports both wheeled and quadrupedal configurations, ensuring effective performance on smooth indoor surfaces as well as challenging, uneven outdoor terrain. The architecture is organized into two primary subsystems: an intelligent computer vision module and a versatile locomotion unit.
